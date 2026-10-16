@@ -1,0 +1,6 @@
+{
+  "name": "SOCIAL MEDIA BOSS",
+  "description": "Build Brands. Make Moves. Become the Boss. Career simulation game by Effeng AI House.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
